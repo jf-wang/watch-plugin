@@ -2,4 +2,4 @@
 
 ![demo](https://raw.githubusercontent.com/jf-wang/watch-plugin/master/图片1.png)
 
-[演示地址](https://jf-wang.github.io/watch-plugin/master/time.html)
+[演示地址](https://jf-wang.github.io/watch-plugin/time.html)
